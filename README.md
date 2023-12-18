@@ -11,5 +11,5 @@ $ ./parse-rank-choice-jotform <input-file-path> [<output-file-path>]
 ### Example
 
 ```bash
-$ ./parse-rank-choice-jotform input.csv output.csv
+$ ./parse-rank-choice-jotform ./input.csv ./output.csv
 ```
