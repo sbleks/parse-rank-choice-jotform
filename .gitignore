@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+parse-rank-choice-jotform
 
 # Test binary, built with `go test -c`
 *.test
@@ -19,3 +20,8 @@
 
 # Go workspace file
 go.work
+
+# Data folders
+/input
+/output
+.DS_Store
